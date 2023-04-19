@@ -51,5 +51,15 @@
 
 ![image](https://user-images.githubusercontent.com/79899779/232967856-32b140dd-df52-48cb-83dd-ef56b1bdfb3c.png)
 
+● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0~100점 까지의 점수  
+
+
+
+
+
+
+
+
+
 
 
