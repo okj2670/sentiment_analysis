@@ -12,6 +12,7 @@
 이 사이트는 미국 CBS 방송국 계열사인 CBS Interactive 소속의 사이트로, 익히 아는 씨넷, 게임스팟 등을 자매 사이트로 두고 있다.
 
 이번 프로젝트에서는 메타크리틱 리뷰들을 이용해 긍부정 예측을 통한 인공지능 모델을 개발할 것이다.  
+리뷰가 소비자들에게 주는 영향력과 그에 따른 게임 산업에 관해 다룬다
 
 
 ## 1-2 게임 리뷰가 가지는 영향력
@@ -25,16 +26,18 @@
 # 2.데이터
 ## 2-1 데이터 구성
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
+![image](https://user-images.githubusercontent.com/79899779/232965965-c70e27dd-ed2a-4281-af2c-e6a9e02828d6.png)
 
-name	review	game	platform	score	date
-![image](https://user-images.githubusercontent.com/79899779/232965424-760779bc-42af-4611-94f8-894aa2549586.png)
-
-
-
+## 2-2 리뷰에 따른 점수 분포도
+![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
 
 
 
 
+
+
+
+## 2-3 라벨 분포 및 구성
 
 ![image](https://user-images.githubusercontent.com/79899779/232964600-25ddef6a-63a3-4a11-8b91-b1104c0ee5d7.png)
 
