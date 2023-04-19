@@ -39,10 +39,17 @@
 
 ## 2-3 라벨 분포 및 구성
 
-![image](https://user-images.githubusercontent.com/79899779/232964600-25ddef6a-63a3-4a11-8b91-b1104c0ee5d7.png)
+![image](https://user-images.githubusercontent.com/79899779/232967093-d83e0939-9cb2-49be-afaf-a1117df87b05.png)
 
 
-● 
+![image](https://user-images.githubusercontent.com/79899779/232967617-69957133-8f52-4aa6-9c37-db5209f4dc8d.png)
+
+
+![image](https://user-images.githubusercontent.com/79899779/232967682-ce1ae09c-0b54-459c-b980-35e246b75f70.png)
+
+
+
+![image](https://user-images.githubusercontent.com/79899779/232967856-32b140dd-df52-48cb-83dd-ef56b1bdfb3c.png)
 
 
 
