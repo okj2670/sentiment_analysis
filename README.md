@@ -41,7 +41,7 @@
 
 ● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0~100점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
-![image](https://user-images.githubusercontent.com/79899779/234348975-4cbc25c7-9b36-4d2c-b58a-8ed80a8f696f.png)
+![image](https://user-images.githubusercontent.com/79899779/234349279-591d5c33-66a3-4a08-b9fa-bb97556993a8.png)
 
 
 
