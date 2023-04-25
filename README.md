@@ -46,8 +46,8 @@
 
 ![image](https://user-images.githubusercontent.com/79899779/234349966-8b340a03-a32a-4bd2-9ca3-681996a25cf6.png)
 
-124k - 긍정(postive):100~
-
+124k - 긍정(postive):100점~75점 극찬 99%
+1565 - 부정(Negative)
 
 
 
