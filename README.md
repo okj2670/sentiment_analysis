@@ -39,20 +39,9 @@
 
 ## 2-3 라벨 분포 및 구성
 
-![image](https://user-images.githubusercontent.com/79899779/232967093-d83e0939-9cb2-49be-afaf-a1117df87b05.png)
-
-
-![image](https://user-images.githubusercontent.com/79899779/232967617-69957133-8f52-4aa6-9c37-db5209f4dc8d.png)
-
-
-![image](https://user-images.githubusercontent.com/79899779/232967682-ce1ae09c-0b54-459c-b980-35e246b75f70.png)
-
-
-
-![image](https://user-images.githubusercontent.com/79899779/232967856-32b140dd-df52-48cb-83dd-ef56b1bdfb3c.png)
-
 ● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0~100점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
+![image](https://user-images.githubusercontent.com/79899779/234348975-4cbc25c7-9b36-4d2c-b58a-8ed80a8f696f.png)
 
 
 
