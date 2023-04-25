@@ -39,9 +39,13 @@
 
 ## 2-3 라벨 분포 및 구성
 
-● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0~100점 까지의 점수  
+● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0.0~100.0점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 ![image](https://user-images.githubusercontent.com/79899779/234349279-591d5c33-66a3-4a08-b9fa-bb97556993a8.png)
+
+
+![image](https://user-images.githubusercontent.com/79899779/234349966-8b340a03-a32a-4bd2-9ca3-681996a25cf6.png)
+
 
 
 
