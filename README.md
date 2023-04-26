@@ -21,8 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/79899779/234441144-a80844a4-7159-4767-b1ed-cf0388663d75.png)
 
-
-
+#### 츨처:https://www.metacritic.com/ 
 
 ## 1-2 게임 리뷰가 가지는 영향력
 ### 리뷰를 통한 게임 판매량 영향 
