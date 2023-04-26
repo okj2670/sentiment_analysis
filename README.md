@@ -1,5 +1,7 @@
+![image](https://user-images.githubusercontent.com/79899779/234442006-a13c65c3-5e94-44dc-96f3-e7919701e448.png)
+
 #  🎮Mobile Bert를 활용한 메타크리틱 게임 리뷰 분석🎮
-![image](https://user-images.githubusercontent.com/79899779/234441887-a04e3a96-e64f-4a8e-8674-277065ba764d.png)
+
 
 
 
