@@ -42,7 +42,9 @@
 # 2.데이터
 ## 2-1 데이터 구성
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
-![image](https://user-images.githubusercontent.com/79899779/232965965-c70e27dd-ed2a-4281-af2c-e6a9e02828d6.png)
+
+![image](https://user-images.githubusercontent.com/79899779/234444141-fa0a009f-3b22-4c65-bcdc-df24103178be.png)
+
 
 
 
