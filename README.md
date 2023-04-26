@@ -21,6 +21,12 @@
 
 ![image](https://user-images.githubusercontent.com/79899779/234441144-a80844a4-7159-4767-b1ed-cf0388663d75.png)
 
+## 리뷰에 따른 점수 분포도
+![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
+
+보통 90점 전후는 명작으로 부르며 메타크리틱 측에서도 평론가 리뷰 15개 이상 조건으로 90점 이상의 게임들은 'MUST-PLAY' 배지가 주어진다.  게임 한정으로 75 이상은 초록색 호평, 50 내지 60대는 노란색 보통, 그 미만을 좋은 평 준 평론가들보다 안 좋은 평 준 평론가들이 더 많은 빨간색으로 분류된다. 인디 게임의 경우 그래픽 때문에 저평가되는 경향이 있어 80점 이상이면 상당한 명작이라고 보면 된다.
+
+
 #### 츨처:https://www.metacritic.com/ 
 
 ## 1-2 게임 리뷰가 가지는 영향력
@@ -38,10 +44,6 @@
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 ![image](https://user-images.githubusercontent.com/79899779/232965965-c70e27dd-ed2a-4281-af2c-e6a9e02828d6.png)
 
-## 2-2 리뷰에 따른 점수 분포도
-![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
-
-보통 90점 전후는 명작으로 부르며 메타크리틱 측에서도 평론가 리뷰 15개 이상 조건으로 90점 이상의 게임들은 'MUST-PLAY' 배지가 주어진다.  게임 한정으로 75 이상은 초록색 호평, 50 내지 60대는 노란색 보통, 그 미만을 좋은 평 준 평론가들보다 안 좋은 평 준 평론가들이 더 많은 빨간색으로 분류된다. 인디 게임의 경우 그래픽 때문에 저평가되는 경향이 있어 80점 이상이면 상당한 명작이라고 보면 된다.
 
 
 
