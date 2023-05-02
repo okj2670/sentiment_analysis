@@ -92,6 +92,8 @@
 
 ![image](https://user-images.githubusercontent.com/79899779/234349966-8b340a03-a32a-4bd2-9ca3-681996a25cf6.png)
 
+![image](https://user-images.githubusercontent.com/79899779/235732893-23427ca5-2dc4-4e7a-a0ad-579e727ecc49.png)
+
 #### ● 124k - 긍정(Postive):100점~75점 극찬 99%
 #### ● 1565 - 부정(Negative):49점~0점  혹평 1%
 
