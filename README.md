@@ -34,6 +34,7 @@
 
 
 #### 츨처:https://www.metacritic.com/ 
+#### 출처:https://namu.wiki/w/%EB%A9%94%ED%83%80%ED%81%AC%EB%A6%AC%ED%8B%B1
 
 ## 1-2 게임 리뷰가 가지는 영향력
 ### 리뷰를 통한 게임 판매량 영향 
