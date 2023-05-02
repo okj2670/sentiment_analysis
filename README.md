@@ -25,7 +25,7 @@
 리뷰가 소비자들에게 주는 영향력과 그에 따른 게임 산업에 관해 다룬다.
 
 
-![image](https://user-images.githubusercontent.com/79899779/234441144-a80844a4-7159-4767-b1ed-cf0388663d75.png)
+![image](https://user-images.githubusercontent.com/79899779/235685202-01c8b30b-60b5-4939-8750-f2595cc4320c.png)
 
 ## 리뷰에 따른 점수 분포도
 ![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
