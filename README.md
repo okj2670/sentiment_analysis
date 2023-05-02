@@ -17,6 +17,8 @@
 
 ## 1-1 메타크리틱이란?
  ##### 그렇다면 오늘 설명할 메타크리틱이란 무엇인가??
+ 
+ ![image](https://user-images.githubusercontent.com/79899779/235685202-01c8b30b-60b5-4939-8750-f2595cc4320c.png)
 
 ● 2001년에 개설됐으며 영화, 게임, TV 쇼, 음반 평론 리뷰 중 숫자 표기된 평들만 집계하는 사이트다.
 
@@ -30,7 +32,7 @@
 리뷰가 소비자들에게 주는 영향력과 그에 따른 게임 산업에 관해 다룬다.
 
 
-![image](https://user-images.githubusercontent.com/79899779/235685202-01c8b30b-60b5-4939-8750-f2595cc4320c.png)
+
 
 ## 리뷰에 따른 점수 분포도
 ![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
