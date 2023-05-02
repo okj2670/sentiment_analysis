@@ -40,12 +40,16 @@
 
 ## 리뷰에 따른 점수 분포도
 ![image](https://user-images.githubusercontent.com/79899779/232966431-cd133020-2ec7-4ed4-a3b3-e84b0d949c25.png)
+![image](https://user-images.githubusercontent.com/79899779/235728670-651931c5-3f74-4af6-a505-b280ce5b92b7.png)
 
 보통 90점 전후는 명작으로 부르며 메타크리틱 측에서도 평론가 리뷰 15개 이상 조건으로 90점 이상의 게임들은 'MUST-PLAY' 배지가 주어진다.  게임 한정으로 75 이상은 초록색 호평, 50 내지 60대는 노란색 보통, 그 미만을 좋은 평 준 평론가들보다 안 좋은 평 준 평론가들이 더 많은 빨간색으로 분류된다. 인디 게임의 경우 그래픽 때문에 저평가되는 경향이 있어 80점 이상이면 상당한 명작이라고 보면 된다.
+![image](https://user-images.githubusercontent.com/79899779/235729050-301b9169-851d-45cf-8dd9-5836ec7ac28a.png)
+자격을 얻은 게임에 주어지는 엠블럼
 
 
 #### 츨처:https://www.metacritic.com/ 
 #### 출처:https://namu.wiki/w/%EB%A9%94%ED%83%80%ED%81%AC%EB%A6%AC%ED%8B%B1
+
 
 ## 1-2 게임 리뷰가 가지는 영향력
 ### 리뷰를 통한 게임 판매량 영향 
