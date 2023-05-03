@@ -96,8 +96,12 @@
 ![image](https://user-images.githubusercontent.com/79899779/235825123-ba1c5691-44c6-4655-aa05-567e308812f3.png)
 
 
-## 3.
-df['score'].hist()
+## 3.라벨 
+![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
+
+
+![image](https://user-images.githubusercontent.com/79899779/235826171-9df94023-c63e-4a0a-9206-9b8a110bd2e0.png)
+
 
 
 
