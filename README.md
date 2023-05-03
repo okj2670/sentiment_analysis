@@ -93,7 +93,9 @@
 ![image](https://user-images.githubusercontent.com/79899779/235824878-378f573d-9fbf-4f5f-89f3-e0010f5bc935.png)
 
 ## 2.결측치
-![image](https://user-images.githubusercontent.com/79899779/235825123-ba1c5691-44c6-4655-aa05-567e308812f3.png)
+
+![image](https://user-images.githubusercontent.com/79899779/235826289-4f37d5bf-5a26-49ce-9a31-695e323eff20.png)
+
 
 
 ## 3.라벨 
