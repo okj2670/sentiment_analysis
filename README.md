@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79899779/234442006-a13c65c3-5e94-44dc-96f3-e7919701e448.png)
+![image](https://user-images.githubusercontent.com/79899779/235826504-b0711728-fa28-4871-9190-2dca7b8f8218.png)
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
