@@ -85,14 +85,27 @@
 
 ● 2011년 부터 2019년 까지 총 123636개의 리뷰, 3910개의 게임 0.0~100.0점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
+## 데이터 불러오기
+name	review	game	platform	score	date	
+0	LEVEL (Czech Republic)	Portal 2 is a masterpiece, a work of art that ...	Portal 2	PC	100	25-May-11
+1	GameCritics	So do we need Portal 2? Do I need it? Maybe no...	Portal 2	PC	100	08-May-11
+2	PC Games (Russia)	Portal 2 exceeds every expectation. It has a s...	Portal 2	PC	100	06-May-11
+3	Adventure Gamers	Like its predecessor, Portal 2 is not an adven...	Portal 2	PC	100	29-Apr-11
+4	Armchair Empire	Pile on the "Oh, yes!" moments of solving some...	Portal 2	PC	100	28-Apr-11
+...	...	...	...	...	...	...
+125871	PC PowerPlay	Well, pardner, I'd suggest you ride far, far a...	Wild West Online	PC	30	22-May-18
+125872	GameGrin	The contentless husk of an MMO with uninterest...	Wild West Online	PC	30	17-May-18
+125873	GameSpace	Overall Wild West Online in its current state ...	Wild West Online	PC	20	11-Jun-18
+125874	Multiplayer.it	Wild West Online is a complete mess. Don't buy...	Wild West Online	PC	20	01-Jun-18
+125875	SpazioGames	Wild West Online isn't a real game.	Wild West Online	PC	20	17-May-18
+![image](https://user-images.githubusercontent.com/79899779/235823427-dd6eb264-3e38-4b75-ba60-85d7d6c69acb.png)
 
 
 
 
 
-![image](https://user-images.githubusercontent.com/79899779/234349966-8b340a03-a32a-4bd2-9ca3-681996a25cf6.png)
 
-![image](https://user-images.githubusercontent.com/79899779/235733712-a6436aa9-3f43-47d6-b735-6c16ad7ba6c7.png)
+
 
 
 #### ● - 긍정(Postive):100점~90점  
