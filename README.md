@@ -93,7 +93,7 @@
 ![image](https://user-images.githubusercontent.com/79899779/234349966-8b340a03-a32a-4bd2-9ca3-681996a25cf6.png)
 
 ![image](https://user-images.githubusercontent.com/79899779/235733712-a6436aa9-3f43-47d6-b735-6c16ad7ba6c7.png)
-/kaggle/input/metacritic-critic-games-reviews-20112019/metacritic_critic_reviews.csv
+
 
 #### ● - 긍정(Postive):100점~90점  
 #### ● - 긍정(Postive):89점~75점  
@@ -101,7 +101,7 @@
 #### ● - 부정(Negative):49점~20점 
 #### ● - 부정(Negative):19점~0점 
 
-* <히스토그램 표 만들 예정>
+
 
 # 3. 결론
 2011년 부터 2019년 까지 메타크리틱 스코어를 보면서 소비자가 대부분 게임리뷰에 신경 쓰면서 게임에 대한 평가가 높을수록
