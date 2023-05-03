@@ -2,7 +2,7 @@
 
 #  🎮Mobile Bert를 활용한 메타크리틱 게임 리뷰 분석🎮
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Kaggle-#20BEFF=for-the-badge&logo=Kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF=for-the-badge&logo=Kaggle&logoColor=white">
 
 
 
