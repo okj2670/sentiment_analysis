@@ -89,7 +89,14 @@
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 ## 1.데이터 불러오기
 
-![image](https://user-images.githubusercontent.com/79899779/235823427-dd6eb264-3e38-4b75-ba60-85d7d6c69acb.png)
+
+![image](https://user-images.githubusercontent.com/79899779/235824878-378f573d-9fbf-4f5f-89f3-e0010f5bc935.png)
+
+## 2.결측치
+![image](https://user-images.githubusercontent.com/79899779/235825123-ba1c5691-44c6-4655-aa05-567e308812f3.png)
+
+
+## 3.
 
 
 
