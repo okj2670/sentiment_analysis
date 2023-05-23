@@ -5,7 +5,7 @@
 </br>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Jupiter-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Jupiter-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 #  🎮Mobile Bert를 활용한 메타크리틱 게임 리뷰 분석🎮
