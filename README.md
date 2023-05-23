@@ -106,7 +106,7 @@
 
 
 
-## 3.라벨 
+## 3.데이터 시각화
 ![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
 
 
