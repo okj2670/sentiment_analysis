@@ -104,7 +104,7 @@
 
 
 
-## 3.데이터 시각화
+## 3.데이터 시각화(라벨,분포,데이터 구성)
 ![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
 
 ![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
