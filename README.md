@@ -107,6 +107,7 @@
 ## 3.데이터 시각화
 ![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
 
+![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
 
 ![image](https://user-images.githubusercontent.com/79899779/235826171-9df94023-c63e-4a0a-9206-9b8a110bd2e0.png)
 
