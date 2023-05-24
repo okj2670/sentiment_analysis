@@ -122,7 +122,7 @@
 #### ● - 부정(Negative):19점~0점 
 
 ![image](https://user-images.githubusercontent.com/79899779/235826171-9df94023-c63e-4a0a-9206-9b8a110bd2e0.png)
-
+● 
 
 
 
