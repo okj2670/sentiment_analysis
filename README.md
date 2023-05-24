@@ -114,6 +114,12 @@
 ![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
  
 ● 데이터를 추출해 파이 그림으로 표현해 보면 88%의 긍정과 12%의 부정으로 나타 낼수 있었다.
+ 
+ #### ● - 긍정(Postive):100점~90점  
+#### ● - 긍정(Postive):89점~75점  
+#### ● - 긍정(Postive):74점~50점  
+#### ● - 부정(Negative):49점~20점 
+#### ● - 부정(Negative):19점~0점 
 
 ![image](https://user-images.githubusercontent.com/79899779/235826171-9df94023-c63e-4a0a-9206-9b8a110bd2e0.png)
 
@@ -126,11 +132,7 @@
 
 
 
-#### ● - 긍정(Postive):100점~90점  
-#### ● - 긍정(Postive):89점~75점  
-#### ● - 긍정(Postive):74점~50점  
-#### ● - 부정(Negative):49점~20점 
-#### ● - 부정(Negative):19점~0점 
+
 
 
 
