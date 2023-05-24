@@ -106,6 +106,8 @@
 
 ## 3.데이터 시각화(라벨,분포,데이터 구성)
 ![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
+ ● Jupiter로 데이터를 전체적으로 표현 했을 떄 긍정(Postive):100점~90점  보다 긍정(Postive):89점~75점 사이와 긍정(Postive):74점~50점 사이가
+ 보통 분포적이다.
 
 ![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
 
