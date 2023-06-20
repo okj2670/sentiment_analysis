@@ -156,6 +156,9 @@
 ● Review:125876개의 리뷰 데이터
 
  # 4.긍부정 분석
+ <img src="https://github.com/dlwjddn7922/project/assets/79899654/b2ab58e6-5703-4685-82fc-005aecc4893b">
+  
+ - 전체 데이터인 125767개를 넣어서 돌려본 결과 validation accuracy 0.95 Accuracy가 나왔다.
 
 
 
