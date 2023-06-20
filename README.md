@@ -82,16 +82,7 @@
 ## 2-1 데이터 구성
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 
-|Index|Yelp URL|Rating|Date|Review text|
-|---|---|---|---|---|
-|1|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5	|1/22/2022	All I |can say is they have very good ice cream I would for sure recommend their cookies and creme ice cream it is very good|
-|2|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	6/26/2022|	Nice little local place for ice cream.My favorite is their pumpkin shake ( Fall season special).( My Sweetness tolerance is low) Their LARGE SIZE ice cream usually seems too sweet after having ice cream for a while. But love their pina colada. So refreshing. Their Banana Split is good too.|
-|3|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5|	8/7/2021	|A delicious treat on a hot day! Staff was very friendly and helpful-- gave us a sample and let us order a little earlier than open.|
-|4|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	7/28/2016|	"This was great service and a fun crew! I got the banana cream pie with chocolate ice cream. I loved the flavor of this. It had freshly cut bananas, graham crackers and chocolate ice cream. YUM!! The only thing that I noticed is that it melted pretty fast and it's a bit icy. I like creamier ice cream (so it had a bit more overrun that I prefer), but overall, was delicious!"|
-|... | ... | ... | ... |... |
-|19893|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|3	|1/22/2022	All I |Delicious. We got a breakfast sandwich here and it was very good. Also I got some sort of lemon tart dessert that was also delicious.|
-|19894|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	9/3/2019|	Great gelato and great milkshakes. Stopped here after Din Tai Fung closed so some dessert and it was the real deal. I ordered the Oreo milkshake but everyone I was with had the gelato and loved it.|
-|19895|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5|	8/7/2021	|"Its hard not to order everything when I come here because its so good. You can also order on Instacart for delivery. They always get my order correct which I appreciate"|
+
 
 
 
@@ -105,7 +96,16 @@
 ● 2011년 부터 2019년 까지 총 125876개의 리뷰, 3910개의 게임 0.0~100.0점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 ## 1.데이터 불러오기
-![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/e64c8a6f-df54-4f73-9992-f07e45c64d63)
+|Index|Yelp URL|Rating|Date|Review text|
+|---|---|---|---|---|
+|1|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5	|1/22/2022	All I |can say is they have very good ice cream I would for sure recommend their cookies and creme ice cream it is very good|
+|2|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	6/26/2022|	Nice little local place for ice cream.My favorite is their pumpkin shake ( Fall season special).( My Sweetness tolerance is low) Their LARGE SIZE ice cream usually seems too sweet after having ice cream for a while. But love their pina colada. So refreshing. Their Banana Split is good too.|
+|3|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5|	8/7/2021	|A delicious treat on a hot day! Staff was very friendly and helpful-- gave us a sample and let us order a little earlier than open.|
+|4|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	7/28/2016|	"This was great service and a fun crew! I got the banana cream pie with chocolate ice cream. I loved the flavor of this. It had freshly cut bananas, graham crackers and chocolate ice cream. YUM!! The only thing that I noticed is that it melted pretty fast and it's a bit icy. I like creamier ice cream (so it had a bit more overrun that I prefer), but overall, was delicious!"|
+|... | ... | ... | ... |... |
+|19893|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|3	|1/22/2022	All I |Delicious. We got a breakfast sandwich here and it was very good. Also I got some sort of lemon tart dessert that was also delicious.|
+|19894|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|4|	9/3/2019|	Great gelato and great milkshakes. Stopped here after Din Tai Fung closed so some dessert and it was the real deal. I ordered the Oreo milkshake but everyone I was with had the gelato and loved it.|
+|19895|https://www.yelp.com/biz/sidney-dairy-barn-sidney	|5|	8/7/2021	|"Its hard not to order everything when I come here because its so good. You can also order on Instacart for delivery. They always get my order correct which I appreciate"|
 
 
 
