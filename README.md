@@ -134,7 +134,13 @@
 |3999|	ooka-Laylee would fit right into the late 90s with its vague puzzles, wakka-wakka voices, and confusing levels. Time has moved on since the N64, and while there are a handful of bright spots, this sadly isn't the catalyst for a 3D platformer revival.|30|
 |4000|More tech demo than anything else. [May 2011, p.65]|20|
  
- 
+- 2000개를 뽑을건데 1000개 긍정  1000개 부정 80141개 데이터가
+
+1번 부터 80141번까지로 표현한다면
+데이터의 추가 열에
+1부터 80141 중 임의의 수를 집어넣은뒤
+정렬을해서 상위 1000개를 각각 뽑는다.
+
  ● 데이터를 전체적으로 표현 했을 떄  긍정(Postive):89점~75점 사이와 긍정(Postive):74점~50점 사이가
  보통 분포적이다. 
 
