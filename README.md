@@ -83,7 +83,7 @@
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
  |review|game |score|label|permute|
 |---|---|---|---|
-|리뷰|게임이름|점수|라벨|교환|
+|리뷰|게임이름|점수|라벨|교환
 
 
 
