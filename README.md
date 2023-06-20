@@ -81,9 +81,9 @@
 # 2.데이터소개
 ## 2-1 데이터 구성
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
-|review|game |score|
+|Yelp URL|Rating|Date|Review text|
 |---|---|---|---|
-|리뷰|게임이름|점수|
+|레스토랑 주소URL|평점|날짜|리뷰 글|
 
 
 
