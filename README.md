@@ -105,6 +105,11 @@
 |3|The stages are generous in size and some of them are true level design gems, accompanied by a decidedly inspired soundtrack.	|60|	8/7/2021	|Portal|
 |4|A perfect game for My Hero Academia's fans, the game is a fun beat'em up, but repetitive, not for players that don't love the manga/anime.	|90|	7/28/2016|Alan wake|
 
+- 전체 건수 : 125876건 스코어에 이상한 데이터 : 1688개 중립데이터 제거 : 44047개 나머지 80141개
+
+- 라벨 0 : 긍정 (73774개)
+
+- 라벨 1 : 부정 (6367개)
 
 
 
