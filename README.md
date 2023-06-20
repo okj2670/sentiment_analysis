@@ -98,7 +98,7 @@
 ● 2011년 부터 2019년 까지 총 125876개의 리뷰, 3910개의 게임 0.0~100.0점 까지의 점수  
 ● 출처:https://www.kaggle.com/datasets/skateddu/metacritic-critic-games-reviews-20112019
 ## 1.데이터 불러오기
-|Index|Yelp URL|Rating|Date|Review text|
+|Index|Review|Score|Date|Game|
 |---|---|---|---|---|
 |1|Metro: Last Light is a clear improvement from its predecessor and offers a very atmospheric shooting experience that borders on the survival horror genre.	|89	|1/22/2022	All I |can say is they have very good ice cream I would for sure recommend their cookies and creme ice cream it is very good|
 |2|Night in the Woods is an universal game about the fear of becoming and adult. A fear to struggle with politics, money and family. A fear to lose your beloved ones and yourself. A fear to life itself. But it's also a survival guide to life and adulthood and one of the best written videogames of the last few months.	|70|	6/26/2022|	Nice little local place for ice cream.My favorite is their pumpkin shake ( Fall season special).( My Sweetness tolerance is low) Their LARGE SIZE ice cream usually seems too sweet after having ice cream for a while. But love their pina colada. So refreshing. Their Banana Split is good too.|
