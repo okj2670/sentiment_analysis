@@ -66,6 +66,7 @@
 
 #### 츨처:https://www.metacritic.com/ 
 #### 출처:https://namu.wiki/w/%EB%A9%94%ED%83%80%ED%81%AC%EB%A6%AC%ED%8B%B1
+- kaggle과 나무위키에서 도움을 받아 정보를 추출하였다
 
 
 ## 1-2 게임 리뷰가 가지는 영향력
