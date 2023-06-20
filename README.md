@@ -141,8 +141,7 @@
 1부터 80141 중 임의의 수를 집어넣은뒤
 정렬을해서 상위 1000개를 각각 뽑는다.
 
- ● 데이터를 전체적으로 표현 했을 떄  긍정(Postive):89점~75점 사이와 긍정(Postive):74점~50점 사이가
- 보통 분포적이다. 
+
 
 ![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
  
