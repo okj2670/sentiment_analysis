@@ -122,11 +122,20 @@
 
 
 
-## 3.데이터 시각화(라벨,분포,데이터 구성)
-![image](https://user-images.githubusercontent.com/79899779/235826051-6abf0176-f8a6-437b-a4ea-ecdfba69d1ec.png)
+## 3.데이터 가공(라벨,분포,데이터 구성)
+|Index|Review text|Score|
+|---|---|---|
+|1|Metro: Last Light is a clear improvement from its predecessor and offers a very atmospheric shooting experience that borders on the survival horror genre.|89|
+|2|Night in the Woods is an universal game about the fear of becoming and adult. A fear to struggle with politics, money and family. A fear to lose your beloved ones and yourself. A fear to life itself. But it's also a survival guide to life and adulthood and one of the best written videogames of the last few months.|70|
+|3|The stages are generous in size and some of them are true level design gems, accompanied by a decidedly inspired soundtrack.|60|
+|4| A perfect game for My Hero Academia's fans, the game is a fun beat'em up, but repetitive, not for players that don't love the manga/anime.|90|
+|... | ... | ... |
+|3998|It?™s sad to say, but I can only recommend Hatoful Boyfriend: Holiday Star if you?™re either a) extremely bird to death over the holidays, B) extremely drunk over the holidays, or ideally, c) extremely both.|40|
+|3999|	ooka-Laylee would fit right into the late 90s with its vague puzzles, wakka-wakka voices, and confusing levels. Time has moved on since the N64, and while there are a handful of bright spots, this sadly isn't the catalyst for a 3D platformer revival.|30|
+|4000|More tech demo than anything else. [May 2011, p.65]|20|
  
  
- ● Jupiter로 데이터를 전체적으로 표현 했을 떄  긍정(Postive):89점~75점 사이와 긍정(Postive):74점~50점 사이가
+ ● 데이터를 전체적으로 표현 했을 떄  긍정(Postive):89점~75점 사이와 긍정(Postive):74점~50점 사이가
  보통 분포적이다. 
 
 ![image](https://github.com/okj2670/sentiment_analysis/assets/79899779/68bdcb2a-3a03-42a0-8391-54b69bd5329f)
